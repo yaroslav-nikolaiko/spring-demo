@@ -11,7 +11,6 @@ import java.util.Arrays;
 /**
  * Created by yaroslav on 11/18/15.
  */
-@Configuration
 @ComponentScan(basePackages = {"education.spring.plugin"})
 public class Application {
     public static void main(String[] args) {
